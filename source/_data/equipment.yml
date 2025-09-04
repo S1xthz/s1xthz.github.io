@@ -1,0 +1,41 @@
+- class_name: 好物
+  description: 我的设备
+  tip: 
+  top_background: https://stuchuang.dpdns.org/PicGo/4F1CFCC3-6E1A-4C82-8B52-8130CC2DA2D3_1_105_c.jpeg
+  good_things:
+    - title: Apple 全家桶
+      description: 安卓逻辑看不懂苹果思维
+      equipment_list:
+        - name: MacBook Pro 2021 14 英寸
+          specification: M1 Pro 16G / 0.5TB
+          description: 剪片写代码挺不错，但是别带出门
+          image: https://stuchuang.dpdns.org/PicGo/111902_mbp14-silver2.png
+          link: https://support.apple.com/zh-cn/111902
+        - name: iPad mini(A17 Pro)
+          specification: 深空灰 / 256G
+          description: 用来玩BA很爽
+          image: https://stuchuang.dpdns.org/PicGo/iPad_mini_A17_Pro_Wi-Fi_Lineup_Print__USEN.png
+          link: https://www.apple.com.cn/ipad-10.2/
+        - name: iPhone 14 Pro
+          specification: 小黑紫 / 512G
+          description: 再战5年，灵动岛的设计依然很赞
+          image: https://stuchuang.dpdns.org/PicGo/111846_sp875-sp876-iphone14-pro-promax.png
+          link: https://support.apple.com/zh-cn/111849
+        - name: AirPods Pro 2
+          specification: 标准版
+          description: 拿来听真夜中
+          image: https://stuchuang.dpdns.org/PicGo/111851_sp880-airpods-Pro-2nd-gen.png
+          link: https://support.apple.com/zh-cn/111851
+    - title: 外设
+      description: PVP大佬
+      equipment_list:
+        - name: Roccat Kone Pro Air
+          specification: 白色
+          description: 冰豹是我用过最好用的鼠标，没有之一
+          image: https://stuchuang.dpdns.org/PicGo/KoneProAir_White_Top-Shot_1000x_7fe37f50-d1b6-4f55-a9ca-206cf4bc06ed_994x994.png
+          link: https://roccatstore.com/roccat-kone-pro-air/
+        - name: 新盟M75 VR
+          specification: 熊猫色
+          description: 朋友送的生日礼物，手感不错
+          image: https://stuchuang.dpdns.org/PicGo/已移除背景的OIP.5kPWw-aCyhgM8RLZTtyVogHaHa.png
+          link: https://www.bilibili.com/opus/1063114885237309460
