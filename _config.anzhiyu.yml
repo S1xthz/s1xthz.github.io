@@ -2,6 +2,9 @@
 #hexo cl; hexo s
 #//推送更新上线
 #hexo cl; hexo g; hexo d
+# 更新追番数据
+# hexo bangumi -u
+
 menu:
    文章:
      #隧道: /archives/ || anzhiyu-icon-box-archive
