@@ -828,8 +828,8 @@ aside:
     content: 欢迎来看我的博客鸭~
   card_weixin:
     enable: true
-    face: https://stuchuang.dpdns.org/PicGo/速速来.png
-    backFace: https://stuchuang.dpdns.org/PicGo/订阅频道.png
+    face: https://stuchuang.dpdns.org/Qexo/25/9/0743b89b5822fb5f4dfa87e8240f2f2c.png
+    backFace: https://stuchuang.dpdns.org/Qexo/25/9/0fc688ed1687700569fff49f654369f3.png
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
