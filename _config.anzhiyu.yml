@@ -35,17 +35,13 @@ nav:
   travelling: false
   clock: True
   menu:
-    - title: 网页
+    - title: 社交平台
       item:
-        - name: 博客
-          link: https://blog.anheyu.com/
-          icon: /img/favicon.ico
-    - title: 项目
-      item:
-        - name: 安知鱼图床
-          link: https://image.anheyu.com/
-          icon: https://image.anheyu.com/favicon.ico
-
+        - name: B站|| anzhiyu-icon-github
+          link: https://space.bilibili.com/383308863
+        - name: 抖音|| anzhiyu-icon-github
+          link: https://www.douyin.com/user/MS4wLjABAAAAI-dCwBLUSByyJYVFn2HMRd13ppkpKR8lVjjjOEHfBlKHZqLuVRHyQyggLpx48QAQ?from_tab_name=main
+      
 # mourn （哀悼日，指定日期网站简单变灰，不包括滚动条）
 # 注意： 仅网站首页变灰，其他页面正常显示
 mourn:
@@ -828,8 +824,8 @@ aside:
     content: 欢迎来看我的博客鸭~
   card_weixin:
     enable: true
-    face: https://stuchuang.dpdns.org/Qexo/25/9/0743b89b5822fb5f4dfa87e8240f2f2c.png
-    backFace: https://stuchuang.dpdns.org/Qexo/25/9/0fc688ed1687700569fff49f654369f3.png
+    face: https://stuchuang.dpdns.org/PicGo/速速来_副本.png
+    backFace: https://stuchuang.dpdns.org/PicGo/订阅频道_副本.png
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
