@@ -6,6 +6,11 @@
       link: https://dulang.online
       avatar: https://youke1.picui.cn/s1/2025/08/30/68b292f8a505d.jpg
       descr: 他爱玩原神
+    - name: MiyozMC
+      link: https://miyozmc.pages.dev
+      avatar: https://miyozmc.pages.dev/site/logo.jpg
+      descr: 一个热爱Minecraft的高中生
+      
     #- name: anzhiyu主题
     #  link: https://blog.anheyu.com/
     #  avatar: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg
@@ -16,21 +21,21 @@
   flink_style: telescopic
   hundredSuffix: ""
   link_list:
-    - name: 安知鱼
-      link: https://blog.anheyu.com/
-      avatar: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg
-      descr: 生活明朗，万物可爱
+    - name: dulang
+      link: https://dulang.online
+      avatar: https://youke1.picui.cn/s1/2025/08/30/68b292f8a505d.jpg
+      descr: 他爱玩原神
       siteshot: https://npm.elemecdn.com/anzhiyu-theme-static@1.1.6/img/blog.anheyu.com.jpg
       color: vip
-      tag: 技术
+      tag: 飞舞
 
 - class_name: 小伙伴
   class_desc: 那些人，那些事
   flink_style: anzhiyu
   hundredSuffix: ""
   link_list:
-    - name: 安知鱼
-      link: https://blog.anheyu.com/
-      avatar: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg
+    - name: dulang
+      link: https://dulang.online
+      avatar: https://youke1.picui.cn/s1/2025/08/30/68b292f8a505d.jpg
       descr: 生活明朗，万物可爱
       recommend: true
