@@ -4,6 +4,18 @@
 #hexo cl; hexo g; hexo d
 # 更新追番数据
 # hexo bangumi -u
+#旧电脑（甲）：在“甲”电脑上完成文章更新后，记得运行：
+
+#git add .
+#git commit -m "add_branch"
+#git push
+#git add . && git commit -m "add_branch" && git push
+#这样 GitHub 上将拥有最新版本的文件。
+
+#新电脑（乙）：下午在“乙”电脑上继续编辑时，先执行以下命令以同步最新文件：
+
+#git pull
+
 
 menu:
    文章:
