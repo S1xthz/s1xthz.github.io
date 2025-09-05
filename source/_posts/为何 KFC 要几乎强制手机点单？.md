@@ -2,13 +2,14 @@
 abbrlink: ''
 categories:
 - - 转载
+copyright: 'False'
 cover: https://stuchuang.dpdns.org/PicGo/06_CY2025_8_9_9pã__ã__ã__ã__ã___ownedPC_LPç__è__å_ºã__ç__å___1440x716.jpeg
 date: '2025-09-05T22:09:43.755801+08:00'
 tags:
 - 日常细节
 title: 为何 KFC 要几乎强制手机点单？
 top_img: ''
-updated: '2025-09-05T22:32:34.463+08:00'
+updated: '2025-09-06T02:33:17.500+08:00'
 ---
 # 为何 KFC 要几乎强制手机点单？
 
