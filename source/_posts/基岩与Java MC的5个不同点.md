@@ -1,6 +1,7 @@
 ---
 abbrlink: ''
-categories: []
+categories:
+- - 视频文案
 cover: https://stuchuang.dpdns.org/PicGo/封面 2.png
 date: '2025-09-06T01:27:51.187714+08:00'
 tags: []
