@@ -31,7 +31,7 @@ menu:
 
 # nav相关配置
 nav:
-  enable: True
+  enable: False
   travelling: false
   clock: True
   menu:
