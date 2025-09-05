@@ -1,19 +1,17 @@
 #//本地预览
 #hexo cl; hexo s
+
 #//推送更新上线
 #hexo cl; hexo g; hexo d
+
 # 更新追番数据
 # hexo bangumi -u
+
 #旧电脑（甲）：在“甲”电脑上完成文章更新后，记得运行：
-
-#git add .
-#git commit -m "add_branch"
-#git push
 #git add . && git commit -m "add_branch" && git push
+
 #这样 GitHub 上将拥有最新版本的文件。
-
 #新电脑（乙）：下午在“乙”电脑上继续编辑时，先执行以下命令以同步最新文件：
-
 #git pull
 
 
@@ -49,9 +47,9 @@ nav:
   menu:
     - title: 社交平台
       item:
-        - name: B站|| anzhiyu-icon-github
+        - name: B站
           link: https://space.bilibili.com/383308863
-        - name: 抖音|| anzhiyu-icon-github
+        - name: 抖音
           link: https://www.douyin.com/user/MS4wLjABAAAAI-dCwBLUSByyJYVFn2HMRd13ppkpKR8lVjjjOEHfBlKHZqLuVRHyQyggLpx48QAQ?from_tab_name=main
       
 # mourn （哀悼日，指定日期网站简单变灰，不包括滚动条）
@@ -332,13 +330,13 @@ addtoany:
 comments:
   # Up to two comments system, the first will be shown as default
   # Choose: Valine/Waline/Twikoo/Artalk
-  use: # Twikoo/Waline
+  use: Twikoo
   text: true # Display the comment name next to the button
   # lazyload: The comment system will be load when comment element enters the browser's viewport.
   # If you set it to true, the comment count will be invalid
-  lazyload: false
-  count: false # Display comment count in post's top_img
-  card_post_count: false # Display comment count in Home Page
+  lazyload: True 
+  count: true # Display comment count in post's top_img
+  card_post_count: True  # Display comment count in Home Page
 
 # valine
 # https://valine.js.org
@@ -378,7 +376,7 @@ waline:
 # Twikoo
 # https://github.com/imaegoo/twikoo
 twikoo:
-  envId:
+  envId: https://comments.sixth.live
   region:
   visitor: false
   option:
@@ -1074,18 +1072,18 @@ home_top:
   subTitle: 永遠是深夜有多好。
   siteText: 我永远喜欢ZUTOMAYO
   category:
-    - name: 壁纸
-      path: /categories/前端开发/
+    - name: 图集
+      path: /categories/图集/
       shadow: var(--anzhiyu-shadow-blue)
       class: blue
       icon: anzhiyu-icon-dove
     - name: 转载
-      path: /categories/大学生涯/
+      path: /categories/转载/
       shadow: var(--anzhiyu-shadow-red)
       class: red
       icon: anzhiyu-icon-fire
     - name: 生活
-      path: /categories/生活日常/
+      path: /categories/生活/
       shadow: var(--anzhiyu-shadow-green)
       class: green
       icon: anzhiyu-icon-book
