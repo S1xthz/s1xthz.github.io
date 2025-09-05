@@ -25,6 +25,9 @@ https://www.limin.studio/2024/11/10/wzbk3/
 
 https://www.limin.studio/2024/11/24/wzbk4/
 
+## hexo源码上传到GitHub
+https://www.cnblogs.com/eidolonw/p/13066869.html
+
 ## 官方文档
 
 https://docs.anheyu.com/initall.html
