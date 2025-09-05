@@ -8,9 +8,9 @@ tags:
 - 日常细节
 title: 为何 KFC 要几乎强制手机点单？
 top_img: ''
-updated: '2025-09-05T22:30:41.365+08:00'
+updated: '2025-09-05T22:32:34.463+08:00'
 ---
-#为何 KFC 要几乎强制手机点单？
+# 为何 KFC 要几乎强制手机点单？
 
 [来自知乎Sofiayeo  点我跳转原文](https://www.zhihu.com/question/337011684/answer/2407106770)
 
