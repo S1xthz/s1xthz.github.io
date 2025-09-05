@@ -35,7 +35,7 @@ menu:
 
    关于:
   #   关于本人: /about/ || anzhiyu-icon-paper-plane
-      闲言碎语: /essay/ || anzhiyu-icon-lightbulb
+      闲言碎语: /talks/ || anzhiyu-icon-lightbulb
   #   随便逛逛: javascript:toRandomPost() || anzhiyu-icon-shoe-prints1
       我的装备: /equipment/ || anzhiyu-icon-dice-d20
 
@@ -1263,6 +1263,12 @@ inject:
   bottom:
     # 自定义js
     - <script src="/js/weather.js"></script>
+    - <script src="https://registry.npmmirror.com/qexo-static/1.6.0/files/hexo/talks.js"></script>
+    - <link rel="stylesheet" href="https://registry.npmmirror.com/qexo-static/1.6.0/files/hexo/talks.css">
+    - |
+      <script>
+        showQexoTalks("qexot", "https://www.shoutai.space", 5)
+      </script>
     # - <script src="/js/xxx"></script>
 
 # CDN
