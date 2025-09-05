@@ -6,9 +6,9 @@ cover: https://stuchuang.dpdns.org/PicGo/06_CY2025_8_9_9pã__ã__ã__ã__ã___ow
 date: '2025-09-05T22:09:43.755801+08:00'
 tags:
 - 日常细节
-title: Why KFC
+title: 为何 KFC 要几乎强制手机点单？
 top_img: ''
-updated: '2025-09-05T22:09:44.539+08:00'
+updated: '2025-09-05T22:30:41.365+08:00'
 ---
 #为何 KFC 要几乎强制手机点单？
 
