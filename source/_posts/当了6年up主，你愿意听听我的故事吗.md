@@ -3,13 +3,13 @@ abbrlink: ''
 categories:
 - - 视频文案
 copyright: ''
-cover: https://stuchuang.dpdns.org/Qexo/26/2/060d57a4f6297a4450e45926f6c1d33e.png"><img                                                            src="https://stuchuang.dpdns.org/Qexo/26/2/060d57a4f6297a4450e45926f6c1d33e.png
+cover: https://stuchuang.dpdns.org/Qexo/26/2/060d57a4f6297a4450e45926f6c1d33e.png
 date: '2026-02-22T01:54:48.811108+08:00'
 tags:
 - 原创
 title: 当了6年up主，你愿意听听我的故事吗
-top_img: ''
-updated: '2026-02-22T02:12:02.841+08:00'
+top_img: https://stuchuang.dpdns.org/Qexo/26/2/060d57a4f6297a4450e45926f6c1d33e.png
+updated: '2026-02-22T02:18:05.717+08:00'
 ---
 好久不见，今年是我当MC，up主的第6个年头，不管屏幕前的你是粉丝也好，路人也罢，我都想要借此机会来分享一下我这6年来的故事。由此可以让你产生一些对MC、对游戏区up，甚至成为up主这件事有一些新的看法
 
