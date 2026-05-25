@@ -13,7 +13,7 @@
           link: https://support.apple.com/zh-cn/111902
         - name: iPad mini(A17 Pro)
           specification: 深空灰 / 256G
-          description: 用来玩BA很爽
+          description: 用来打adx很爽
           image: https://stuchuang.dpdns.org/PicGo/iPad_mini_A17_Pro_Wi-Fi_Lineup_Print__USEN.png
           link: https://www.apple.com.cn/ipad-10.2/
         - name: iPhone 14 Pro
@@ -26,6 +26,11 @@
           description: 拿来听真夜中
           image: https://stuchuang.dpdns.org/PicGo/111851_sp880-airpods-Pro-2nd-gen.png
           link: https://support.apple.com/zh-cn/111851
+        - name: Amazfit GTR 4
+          specification: 银
+          description: 记录舞萌运动数据，偶尔当个智能手表用
+          image: https://stuchuang.dpdns.org/PicGo/gtr4-2.jpg_副本.png
+          link: https://www.amazfit.jp/products/amazfit-gtr-4?srsltid=AfmBOormSCCS8bULWPKmeSRUWQRb0vE8UBty6LG48tWsX4ioPuEStgi9
     - title: 外设
       description: PVP大佬
       equipment_list:
