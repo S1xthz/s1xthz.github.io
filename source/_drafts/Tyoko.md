@@ -7,7 +7,7 @@ date: '2026-05-25T22:04:12.689182+08:00'
 tags: []
 title: 2026东京行
 top_img: ''
-updated: '2026-05-26T17:17:54.712+08:00'
+updated: '2026-05-26T17:28:39.183+08:00'
 ---
 # Day0
 
@@ -25,10 +25,13 @@ updated: '2026-05-26T17:17:54.712+08:00'
 
 ![](https://stuchuang.dpdns.org/Qexo/26/5/cac95f464b6c0119a76aabfdd7f1a609.png)
 
-
- ![](https://stuchuang.dpdns.org/Qexo/26/5/e88a215fbf39222802daffe2c109d510.png)
+![](https://stuchuang.dpdns.org/Qexo/26/5/e88a215fbf39222802daffe2c109d510.png)
 
 *天空是真的很美*
 ![](https://stuchuang.dpdns.org/Qexo/26/5/55dab5ab8ada628e77dba85b613d01d3.png)
 
 *落地后的第一顿饭 松屋简直夯爆了 我很想知道上面那个绿绿的蔬菜到底是什么 真的很好吃*
+
+![](https://stuchuang.dpdns.org/Qexo/26/5/372e54bacc3ff5445af73046430fb120.png)
+
+*出机场看到这种满满白色灯光的停车场 这种简洁感和震撼立马上来了*
